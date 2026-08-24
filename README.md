@@ -1,16 +1,7 @@
-<!--
-  PERSONALISIEREN: Suche in dieser Datei nach diesen Platzhaltern:
-  DEIN_USERNAME, DEIN_NAME, DEINE_ROLLE, DEIN_ORT, DEINE_KURZBESCHREIBUNG,
-  DEINE_EMAIL, DEIN_LINKEDIN, DEIN_YOUTUBE, DEINE_WEBSITE,
-  PROJEKT_1, PROJEKT_2, PROJEKT_3 und den jeweiligen Beschreibungen.
-
-  Lösche außerdem alle Tech-Badges, die nicht zu dir passen.
-  Dieser Kommentar ist auf deinem GitHub-Profil nicht sichtbar.
--->
 
 <div align="center">
-  <a href="https://github.com/DEIN_USERNAME">
-    <img src="https://github.com/DEIN_USERNAME.png" width="130" height="130" alt="Profile picture of DEIN_NAME" />
+  <a href="https://github.com/exceptionloader">
+    <img src="https://github.com/exceptionloader.png" width="130" height="130" alt="Profile picture of exceptionloader" />
   </a>
 
   <h1>Hi, I'm DEIN_NAME 👋</h1>
