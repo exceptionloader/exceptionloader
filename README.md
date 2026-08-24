@@ -1,82 +1,157 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                  DEIN GITHUB-PROFIL                         ║
+  ╚══════════════════════════════════════════════════════════════╝
+
+  Vor dem Hochladen mit Strg+H ersetzen:
+  DEIN_USERNAME · DEIN_NAME · DEINE_ROLLE · DEIN_ORT
+  DEINE_KURZBESCHREIBUNG · DEIN_FOKUS · DEIN_LERNZIEL
+  DEINE_EMAIL · DEIN_LINKEDIN · DEIN_YOUTUBE · DEINE_WEBSITE
+  PROJEKT_1 · PROJEKT_2
+
+  Passe anschließend die Skill-Icons an und lösche Social-Buttons,
+  die du nicht brauchst. Dieser Kommentar ist auf GitHub unsichtbar.
+-->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C2FF,100:00FF9D&height=235&section=header&text=DEIN_NAME&fontSize=62&fontColor=FFFFFF&fontAlignY=36&desc=DEINE_ROLLE&descAlignY=57&descSize=22&animation=fadeIn" alt="Header" />
 
 <div align="center">
-  <a href="https://github.com/exceptionloader">
-    <img src="https://github.com/exceptionloader.png" width="130" height="130" alt="Profile picture of exceptionloader" />
-  </a>
-
-  <h1>Hi, I'm DEIN_NAME 👋</h1>
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=DEINE_ROLLE;Building+useful+things+with+code;Always+learning%2C+always+shipping" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=850&color=00E5FF&center=true&vCenter=true&repeat=true&width=720&height=55&lines=Building+ideas+into+reality+%F0%9F%9A%80;Clean+code.+Bold+ideas.+Real+impact.;Always+learning.+Always+shipping." alt="Animated introduction" />
   </a>
 
-  <p>DEINE_KURZBESCHREIBUNG</p>
-  <p>📍 DEIN_ORT</p>
+  <br />
 
-  <img src="https://komarev.com/ghpvc/?username=DEIN_USERNAME&label=Profile+views&color=238636&style=flat-square" alt="Profile views" />
-</div>
+  <a href="https://github.com/DEIN_USERNAME"><img src="https://img.shields.io/github/followers/DEIN_USERNAME?label=Followers&style=for-the-badge&logo=github&color=7C3AED&labelColor=0D1117" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=DEIN_USERNAME&label=Profile+views&color=00B4D8&style=for-the-badge" alt="Profile views" />
+  <a href="https://DEINE_WEBSITE"><img src="https://img.shields.io/badge/Portfolio-Visit-00C896?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
 
----
+  <br /><br />
 
-## 🌐 Connect with me
-
-<p>
-  <a href="https://www.youtube.com/@DEIN_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.youtube.com/@DEIN_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.linkedin.com/in/DEIN_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:DEINE_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://DEINE_WEBSITE"><img src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-</p>
-
-## 💻 Tech stack
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
-### Frameworks & tools
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-## ✍️ Dev quote
-
-<a href="https://github.com/PiyushSuthar/github-readme-quotes">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Code is like humor. When you have to explain it, it's bad. — Cory House" />
-</a>
-
-## 📊 GitHub stats
-
-<div>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="DEIN_NAME's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages" />
 </div>
 
-> The language card shows code distribution in public repositories—not skill level.
+<br />
 
-## ⭐ Featured projects
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,50:00C2FF,100:00FF9D&height=2" alt="Divider" />
 
-| Project | What it does | Stack |
-|---|---|---|
-| [PROJEKT_1](https://github.com/DEIN_USERNAME/PROJEKT_1) | BESCHREIBUNG_PROJEKT_1 | `TECH_1` `TECH_2` |
-| [PROJEKT_2](https://github.com/DEIN_USERNAME/PROJEKT_2) | BESCHREIBUNG_PROJEKT_2 | `TECH_1` `TECH_2` |
-| [PROJEKT_3](https://github.com/DEIN_USERNAME/PROJEKT_3) | BESCHREIBUNG_PROJEKT_3 | `TECH_1` `TECH_2` |
+## `> whoami`
 
----
+```ts
+const developer = {
+  name: "react",
+  role: "Fullstack Developer",
+  location: "Tilted Towers",
+};
+```
 
 <div align="center">
-  <sub>Thanks for stopping by — feel free to explore my repositories.</sub>
+  <i>⚡ I don't just write code — I build experiences.</i>
 </div>
+
+<br />
+
+## ⚙️ Tech arsenal
+
+<div align="center">
+
+### Frontend
+
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark&perline=7)](https://skillicons.dev)
+
+### Backend & data
+
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,python,java,cs,dotnet,mongodb,mysql&theme=dark&perline=7)](https://skillicons.dev)
+
+### Tools & workflow
+
+[![Tool Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,linux&theme=dark&perline=7)](https://skillicons.dev)
+
+</div>
+
+<br />
+
+## 🏆 Achievement unlocked
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=DEIN_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1" alt="GitHub trophies" />
+  </a>
+</div>
+
+## 📡 GitHub telemetry
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="185" src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00E5FF&text_color=C9D1D9&ring_color=00C896&rank_icon=github" alt="GitHub statistics" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9" alt="Top languages" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img width="72%" src="https://streak-stats.demolab.com?user=DEIN_USERNAME&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&ring=00E5FF&fire=FF7B00&currStreakLabel=00C896" alt="GitHub streak" />
+  </a>
+</div>
+
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DEIN_USERNAME&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=00E5FF&area_color=00C896&area=true&hide_border=true&custom_title=Contribution%20Activity&radius=12" alt="Contribution activity graph" />
+</a>
+
+<sub>Language cards show code distribution in public repositories, not skill level. Some statistics from private repositories may not appear.</sub>
+
+<br /><br />
+
+## 🚀 Featured builds
+
+<div align="center">
+  <a href="https://github.com/DEIN_USERNAME/PROJEKT_1">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DEIN_USERNAME&repo=PROJEKT_1&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9" alt="Project 1" />
+  </a>
+  <a href="https://github.com/DEIN_USERNAME/PROJEKT_2">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DEIN_USERNAME&repo=PROJEKT_2&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9" alt="Project 2" />
+  </a>
+</div>
+
+<div align="center">
+  <br />
+  <a href="https://github.com/DEIN_USERNAME?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_all_repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
+  </a>
+</div>
+
+<br />
+
+## 🐍 Contributions in motion
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DEIN_USERNAME/DEIN_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DEIN_USERNAME/DEIN_USERNAME/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="Animated contribution snake" src="https://raw.githubusercontent.com/DEIN_USERNAME/DEIN_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+## 💬 Dev quote
+
+<div align="center">
+  <a href="https://github.com/PiyushSuthar/github-readme-quotes">
+    <img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Code is like humor. When you have to explain it, it's bad. — Cory House" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <h3>Let's build something remarkable.</h3>
+  <p>Open to interesting projects, collaborations and ambitious ideas.</p>
+  <a href="mailto:DEINE_EMAIL">
+    <img src="https://img.shields.io/badge/LET'S_TALK-00C896?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact me" />
+  </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C2FF,100:00FF9D&height=130&section=footer" alt="Footer" />
